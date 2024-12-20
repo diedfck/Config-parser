@@ -1,0 +1,20 @@
+\ Это комментарий
+
+set A = "A";
+
+set a = 3;
+set b = 3;
+set s = [1;2;3;строка];
+set k = "Это строка";
+set c = 4;
+set d = 9;
+
+set q = a b +;
+set е = a b *;
+
+set g = a b + c d + *;
+
+set h = a b c + * d -;
+
+set j = A ord;
+set y = b 3 pow;
