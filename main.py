@@ -35,6 +35,7 @@ def evaluate_postfix(expression, variables):
 
     return stack.pop()
 
+
 def process_config(input_file, output_file):
     variables = {}
     output_lines = []

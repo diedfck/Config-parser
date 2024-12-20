@@ -10,7 +10,6 @@ set c = 4;
 set d = 9;
 
 set q = a b +;
-set е = a b *;
 
 set g = a b + c d + *;
 
