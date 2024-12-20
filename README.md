@@ -31,4 +31,6 @@ pow() - возведение в степень
 Обрабатываются ошибки, связанные с некорректными операндами или выражениями.
 
 **Работа программы:**
-![Alt text]()
+
+![Alt text](https://github.com/diedfck/config-parser/blob/main/1.PNG)
+![Alt text](https://github.com/diedfck/config-parser/blob/main/2.PNG)
